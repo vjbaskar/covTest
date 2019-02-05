@@ -1,0 +1,10 @@
+d96223400471fbe9b3c49847e8da28bb *DESCRIPTION
+9b03f02ba430189115ab4aeb0d9116b4 *DESCRIPTION.old
+171deec69f1192e5faa147f9343b7ebc *NAMESPACE
+992943bd2970a43f19922c40e113ea70 *R/funcs.R
+772b852035ce03bdca0ef0094d000227 *man/covTest-package.Rd
+5ef715f5f8f96ea34c6974b7b7c2287d *man/covTest.Rd
+69b128bc1a768fd61f551ed71d7b089a *man/lars.en.Rd
+69d16a407e46598b9c1956f3196e039d *man/lars.glm.Rd
+68c0506b8371b23070ecb6068c1d321d *man/predict.lars.en.Rd
+0e1e98a52a69b39cf5bed23efe198f3c *man/predict.lars.glm.Rd
